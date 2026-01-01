@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i>"Bridging the gap between Research and Production."</i> 🚀🐧
+  <i>"Research and Production."</i> 🚀🐧
 </p>
 
 ---

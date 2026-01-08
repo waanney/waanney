@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -44,14 +43,24 @@
 
 ### 📊 Engineering Metrics
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waanney&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waanney&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
+  <h3>⚡ Recent Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waanney&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waanney&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://komarev.com/ghpvc/?username=waanney&color=ff69b4&style=flat-square" />
+</div>
+
+<div align="center">
+  <h3>💡 Today's Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -62,11 +71,9 @@
   <a href="mailto:work.buiminhquan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <a href="[https://linkedin.com/in/your_profile](https://www.linkedin.com/in/waanney/)">
+  <a href="https://www.linkedin.com/in/waanney/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://discord.com/users/1280168912092401705">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
